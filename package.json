@@ -1,0 +1,15 @@
+{
+  "name": "adstate",
+  "version": "1.0.0",
+  "description": "IT challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "Martine Evensen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  }
+}
